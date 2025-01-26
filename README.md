@@ -23,7 +23,7 @@
 
  
 ### LeetCode
-I've completed 32 problems so far with 108 submissions so far.
+I've completed 32 problems so far with 108 submissions.
 ![image](https://github.com/user-attachments/assets/f401a8d5-34de-44ce-8015-b15b3d780f7a)
 ### IIT Madras
 #### [My profile](https://ds.study.iitm.ac.in/student/24F2005618#)
